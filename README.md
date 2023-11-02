@@ -1,1 +1,2 @@
-# inventory
+# Shoe Inventory Management System
+This Python project implements a shoe inventory management system. It includes a Shoe class for storing and managing individual shoe records, allowing users to capture new shoe data, view existing records, restock shoes, search for specific items, calculate the value per item, and find the product with the highest quantity in the inventory. The data is stored in a text file, and the system provides an interactive command-line interface for user interaction.
